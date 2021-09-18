@@ -1,0 +1,9 @@
+my:
+  service:
+    enabled: true
+    reomote-address: 192.168.56.102
+    security:
+      username: nagi
+      password: nagisama
+      roles:
+        - ADMIN
